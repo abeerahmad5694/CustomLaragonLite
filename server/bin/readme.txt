@@ -1,0 +1,2 @@
+set base_path in server\bin\php\php-8.3.30-Win32-vs16-x64\php.ini
+set ports in server\bin\server.ini

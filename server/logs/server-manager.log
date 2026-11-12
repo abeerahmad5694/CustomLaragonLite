@@ -1,0 +1,270 @@
+[2026-08-21 17:38:47] =========================================
+[2026-08-21 17:42:06] =========================================
+[2026-08-21 17:42:57] =========================================
+[2026-08-21 17:42:57] Server Manager started
+[2026-08-21 17:44:12] =========================================
+[2026-08-21 17:44:12] Server Manager started
+[2026-08-21 17:44:12] App Root: C:\laragon-lite
+[2026-08-21 17:44:12] Server Root: C:\laragon-lite\server
+[2026-08-21 17:44:12] MySQL Port: 3306 | Adminer/PHP Port: 8010
+[2026-08-21 17:44:12] =========================================
+[2026-08-21 17:44:12] Starting MySQL on port 3306 with executable: C:\laragon-lite\server\bin\mysql\mysql-8.4.3-winx64\bin\mysqld.exe
+[2026-08-21 17:44:15] MySQL successfully started and accepting connections on port 3306
+[2026-08-21 17:44:15] Starting PHP built-in server for Adminer on port 8010 (Docroot: C:\laragon-lite\server\etc\apps\adminer)
+[2026-08-21 17:44:15] Adminer successfully started and accessible at http://127.0.0.1:8010
+[2026-08-21 17:44:52] =========================================
+[2026-08-21 17:44:52] Server Manager started
+[2026-08-21 17:44:52] App Root: C:\laragon-lite
+[2026-08-21 17:44:52] Server Root: C:\laragon-lite\server
+[2026-08-21 17:44:52] MySQL Port: 3306 | Adminer/PHP Port: 8010
+[2026-08-21 17:44:52] =========================================
+[2026-08-21 17:44:53] MySQL is already running on port 3306
+[2026-08-21 17:44:53] Adminer/PHP is already running on port 8010
+[2026-08-21 17:44:54] =========================================
+[2026-08-21 17:44:54] Server Manager started
+[2026-08-21 17:44:54] App Root: C:\laragon-lite
+[2026-08-21 17:44:54] Server Root: C:\laragon-lite\server
+[2026-08-21 17:44:54] MySQL Port: 3306 | Adminer/PHP Port: 8010
+[2026-08-21 17:44:54] =========================================
+[2026-08-21 17:44:55] MySQL is already running on port 3306
+[2026-08-21 17:44:55] Adminer/PHP is already running on port 8010
+[2026-08-21 17:44:56] =========================================
+[2026-08-21 17:44:56] Server Manager started
+[2026-08-21 17:44:56] App Root: C:\laragon-lite
+[2026-08-21 17:44:56] Server Root: C:\laragon-lite\server
+[2026-08-21 17:44:56] MySQL Port: 3306 | Adminer/PHP Port: 8010
+[2026-08-21 17:44:56] =========================================
+[2026-08-21 17:44:56] MySQL is already running on port 3306
+[2026-08-21 17:44:56] Adminer/PHP is already running on port 8010
+[2026-08-21 17:46:00] Stopping all managed services...
+[2026-08-21 17:46:00] Stopping Adminer/PHP process (PID: 3584)...
+[2026-08-21 17:46:01] Stopping MySQL process (PID: 5632)...
+[2026-08-21 17:46:01] Services stopped successfully
+[2026-08-21 17:46:02] Stopping all managed services...
+[2026-08-21 17:46:02] Services stopped successfully
+[2026-08-21 17:46:03] Stopping all managed services...
+[2026-08-21 17:46:03] Services stopped successfully
+[2026-08-21 17:46:05] Stopping all managed services...
+[2026-08-21 17:46:05] Services stopped successfully
+[2026-08-21 17:51:37] =========================================
+[2026-08-21 17:51:37] Server Manager started
+[2026-08-21 17:51:37] App Root: C:\laragon-lite
+[2026-08-21 17:51:37] Server Root: C:\laragon-lite\server
+[2026-08-21 17:51:37] MySQL Port: 3306 | Adminer/PHP Port: 8010
+[2026-08-21 17:51:37] =========================================
+[2026-08-21 17:51:37] MySQL is already running on port 3306
+[2026-08-21 17:51:38] Adminer/PHP is already running on port 8010
+[2026-08-21 17:51:45] Stopping all managed services...
+[2026-08-21 17:51:45] Services stopped successfully
+[2026-08-21 17:51:48] =========================================
+[2026-08-21 17:51:48] Server Manager started
+[2026-08-21 17:51:48] App Root: C:\laragon-lite
+[2026-08-21 17:51:48] Server Root: C:\laragon-lite\server
+[2026-08-21 17:51:48] MySQL Port: 3306 | Adminer/PHP Port: 8010
+[2026-08-21 17:51:48] =========================================
+[2026-08-21 17:51:48] Starting MySQL on port 3306 with executable: C:\laragon-lite\server\bin\mysql\mysql-8.4.3-winx64\bin\mysqld.exe
+[2026-08-21 17:51:51] MySQL successfully started and accepting connections on port 3306
+[2026-08-21 17:51:51] Starting PHP built-in server for Adminer on port 8010 (Docroot: C:\laragon-lite\server\etc\apps\adminer)
+[2026-08-21 17:51:51] Adminer successfully started and accessible at http://127.0.0.1:8010
+[2026-08-21 17:51:53] =========================================
+[2026-08-21 17:51:53] Server Manager started
+[2026-08-21 17:51:53] App Root: C:\laragon-lite
+[2026-08-21 17:51:53] Server Root: C:\laragon-lite\server
+[2026-08-21 17:51:53] MySQL Port: 3306 | Adminer/PHP Port: 8010
+[2026-08-21 17:51:53] =========================================
+[2026-08-21 17:51:53] MySQL is already running on port 3306
+[2026-08-21 17:51:54] Adminer/PHP is already running on port 8010
+[2026-08-21 17:51:58] =========================================
+[2026-08-21 17:51:58] Server Manager started
+[2026-08-21 17:51:58] App Root: C:\laragon-lite
+[2026-08-21 17:51:58] Server Root: C:\laragon-lite\server
+[2026-08-21 17:51:58] MySQL Port: 3306 | Adminer/PHP Port: 8010
+[2026-08-21 17:51:58] =========================================
+[2026-08-21 17:51:58] MySQL is already running on port 3306
+[2026-08-21 17:51:58] Adminer/PHP is already running on port 8010
+[2026-08-21 17:52:22] Stopping all managed services...
+[2026-08-21 17:52:22] Services stopped successfully
+[2026-08-21 17:52:25] Stopping all managed services...
+[2026-08-21 17:52:25] Services stopped successfully
+[2026-08-21 17:52:26] Stopping all managed services...
+[2026-08-21 17:52:26] Stopping Adminer/PHP process (PID: 1176)...
+[2026-08-21 17:52:26] Stopping MySQL process (PID: 9568)...
+[2026-08-21 17:52:26] Services stopped successfully
+[2026-08-21 17:52:28] =========================================
+[2026-08-21 17:52:28] Server Manager started
+[2026-08-21 17:52:28] App Root: C:\laragon-lite
+[2026-08-21 17:52:28] Server Root: C:\laragon-lite\server
+[2026-08-21 17:52:28] MySQL Port: 3306 | Adminer/PHP Port: 8010
+[2026-08-21 17:52:28] =========================================
+[2026-08-21 17:52:28] Starting MySQL on port 3306 with executable: C:\laragon-lite\server\bin\mysql\mysql-8.4.3-winx64\bin\mysqld.exe
+[2026-08-21 17:52:31] MySQL successfully started and accepting connections on port 3306
+[2026-08-21 17:52:31] Starting PHP built-in server for Adminer on port 8010 (Docroot: C:\laragon-lite\server\etc\apps\adminer)
+[2026-08-21 17:52:31] Adminer successfully started and accessible at http://127.0.0.1:8010
+[2026-08-21 17:52:39] =========================================
+[2026-08-21 17:52:39] Server Manager started
+[2026-08-21 17:52:39] App Root: C:\laragon-lite
+[2026-08-21 17:52:39] Server Root: C:\laragon-lite\server
+[2026-08-21 17:52:39] MySQL Port: 3306 | Adminer/PHP Port: 8010
+[2026-08-21 17:52:39] =========================================
+[2026-08-21 17:52:39] MySQL is already running on port 3306
+[2026-08-21 17:52:39] Adminer/PHP is already running on port 8010
+[2026-08-21 17:52:45] Stopping all managed services...
+[2026-08-21 17:52:45] Services stopped successfully
+[2026-08-21 17:55:09] Stopping all managed services...
+[2026-08-21 17:55:09] Stopping Adminer/PHP process (PID: 4656)...
+[2026-08-21 17:55:09] Stopping MySQL process (PID: 6444)...
+[2026-08-21 17:55:09] Services stopped successfully
+[2026-08-21 17:55:13] =========================================
+[2026-08-21 17:55:13] Server Manager started
+[2026-08-21 17:55:13] App Root: C:\laragon-lite
+[2026-08-21 17:55:13] Server Root: C:\laragon-lite\server
+[2026-08-21 17:55:13] MySQL Port: 3306 | Adminer/PHP Port: 8010
+[2026-08-21 17:55:13] =========================================
+[2026-08-21 17:55:13] Starting MySQL on port 3306 with executable: C:\laragon-lite\server\bin\mysql\mysql-8.4.3-winx64\bin\mysqld.exe
+[2026-08-21 17:55:16] MySQL successfully started and accepting connections on port 3306
+[2026-08-21 17:55:16] Starting PHP built-in server for Adminer on port 8010 (Docroot: C:\laragon-lite\server\etc\apps\adminer)
+[2026-08-21 17:55:16] Adminer successfully started and accessible at http://127.0.0.1:8010
+[2026-08-21 17:55:46] Stopping all managed services...
+[2026-08-21 17:55:46] Stopping Adminer/PHP process (PID: 7720)...
+[2026-08-21 17:55:46] Stopping MySQL process (PID: 17000)...
+[2026-08-21 17:55:46] Services stopped successfully
+[2026-08-21 18:08:51] =========================================
+[2026-08-21 18:08:51] Server Manager started
+[2026-08-21 18:08:51] App Root: C:\laragon-lite
+[2026-08-21 18:08:51] Server Root: C:\laragon-lite\server
+[2026-08-21 18:08:51] MySQL Port: 3306 | Adminer/PHP Port: 8010
+[2026-08-21 18:08:51] =========================================
+[2026-08-21 18:08:51] Starting MySQL on port 3306 with executable: C:\laragon-lite\server\bin\mysql\mysql-8.4.3-winx64\bin\mysqld.exe
+[2026-08-21 18:08:55] MySQL successfully started and accepting connections on port 3306
+[2026-08-21 18:08:55] Starting PHP built-in server for Adminer on port 8010 (Docroot: C:\laragon-lite\server\etc\apps\adminer)
+[2026-08-21 18:08:56] Adminer successfully started and accessible at http://127.0.0.1:8010
+[2026-08-21 18:12:14] Stopping all managed services...
+[2026-08-21 18:12:14] Stopping Adminer/PHP process (PID: 11628)...
+[2026-08-21 18:12:14] Stopping MySQL process (PID: 12200)...
+[2026-08-21 18:12:14] Services stopped successfully
+[2026-08-21 18:12:15] =========================================
+[2026-08-21 18:12:15] Server Manager started
+[2026-08-21 18:12:15] App Root: C:\laragon-lite
+[2026-08-21 18:12:15] Server Root: C:\laragon-lite\server
+[2026-08-21 18:12:15] MySQL Port: 3306 | Adminer/PHP Port: 8010
+[2026-08-21 18:12:15] =========================================
+[2026-08-21 18:12:16] Starting MySQL on port 3306 with executable: C:\laragon-lite\server\bin\mysql\mysql-8.4.3-winx64\bin\mysqld.exe
+[2026-08-21 18:12:18] MySQL successfully started and accepting connections on port 3306
+[2026-08-21 18:12:18] Starting PHP built-in server for Adminer on port 8010 (Docroot: C:\laragon-lite\server\etc\apps\adminer)
+[2026-08-21 18:12:19] Adminer successfully started and accessible at http://127.0.0.1:8010
+[2026-08-21 18:13:37] Stopping all managed services...
+[2026-08-21 18:13:37] Stopping Adminer/PHP process (PID: 9848)...
+[2026-08-21 18:13:37] Stopping MySQL process (PID: 18820)...
+[2026-08-21 18:13:37] Services stopped successfully
+[2026-08-21 18:13:41] =========================================
+[2026-08-21 18:13:41] Server Manager started
+[2026-08-21 18:13:41] App Root: C:\laragon-lite
+[2026-08-21 18:13:41] Server Root: C:\laragon-lite\server
+[2026-08-21 18:13:41] MySQL Port: 3306 | Adminer/PHP Port: 8010
+[2026-08-21 18:13:41] =========================================
+[2026-08-21 18:13:41] Starting MySQL on port 3306 with executable: C:\laragon-lite\server\bin\mysql\mysql-8.4.3-winx64\bin\mysqld.exe
+[2026-08-21 18:13:44] MySQL successfully started and accepting connections on port 3306
+[2026-08-21 18:13:44] Starting PHP built-in server for Adminer on port 8010 (Docroot: C:\laragon-lite\server\etc\apps\adminer)
+[2026-08-21 18:13:44] Adminer successfully started and accessible at http://127.0.0.1:8010
+[2026-08-21 18:14:17] Stopping all managed services...
+[2026-08-21 18:14:17] Stopping Adminer/PHP process (PID: 8)...
+[2026-08-21 18:14:17] Stopping MySQL process (PID: 13564)...
+[2026-08-21 18:14:17] Services stopped successfully
+[2026-08-21 18:14:21] =========================================
+[2026-08-21 18:14:21] Server Manager started
+[2026-08-21 18:14:21] App Root: C:\laragon-lite
+[2026-08-21 18:14:21] Server Root: C:\laragon-lite\server
+[2026-08-21 18:14:21] MySQL Port: 3306 | Adminer/PHP Port: 8010
+[2026-08-21 18:14:21] =========================================
+[2026-08-21 18:14:22] Starting MySQL on port 3306 with executable: C:\laragon-lite\server\bin\mysql\mysql-8.4.3-winx64\bin\mysqld.exe
+[2026-08-21 18:14:24] MySQL successfully started and accepting connections on port 3306
+[2026-08-21 18:14:24] Starting PHP built-in server for Adminer on port 8010 (Docroot: C:\laragon-lite\server\etc\apps\adminer)
+[2026-08-21 18:14:25] Adminer successfully started and accessible at http://127.0.0.1:8010
+[2026-08-21 18:15:24] Stopping all managed services...
+[2026-08-21 18:15:24] Stopping Adminer/PHP process (PID: 12712)...
+[2026-08-21 18:15:24] Stopping MySQL process (PID: 8320)...
+[2026-08-21 18:15:24] Services stopped successfully
+[2026-08-21 18:22:44] =========================================
+[2026-08-21 18:22:44] Server Manager started
+[2026-08-21 18:22:44] App Root: C:\laragon-lite
+[2026-08-21 18:22:44] Server Root: C:\laragon-lite\server
+[2026-08-21 18:22:44] MySQL Port: 3306 | Adminer/PHP Port: 8010
+[2026-08-21 18:22:44] =========================================
+[2026-08-21 18:22:44] Starting MySQL on port 3306 with executable: C:\laragon-lite\server\bin\mysql\mysql-8.4.3-winx64\bin\mysqld.exe
+[2026-08-21 18:22:47] MySQL successfully started and accepting connections on port 3306
+[2026-08-21 18:22:47] Starting PHP built-in server for Adminer on port 8010 (Docroot: C:\laragon-lite\server\etc\apps\adminer)
+[2026-08-21 18:22:47] Adminer successfully started and accessible at http://127.0.0.1:8010
+[2026-08-21 18:30:12] Stopping all managed services...
+[2026-08-21 18:30:12] Stopping Adminer/PHP process (PID: 17156)...
+[2026-08-21 18:30:12] Stopping MySQL process (PID: 19728)...
+[2026-08-21 18:30:12] Services stopped successfully
+[2026-09-20 23:48:42] =========================================
+[2026-09-20 23:48:42] Server Manager started
+[2026-09-20 23:48:42] App Root: E:\DjangoBuild\laragon-lite-o
+[2026-09-20 23:48:42] Server Root: E:\DjangoBuild\laragon-lite-o\server
+[2026-09-20 23:48:42] MySQL Port: 3306 | Adminer/PHP Port: 8010
+[2026-09-20 23:48:42] =========================================
+[2026-09-20 23:48:42] Starting MySQL on port 3306 with executable: E:\DjangoBuild\laragon-lite-o\server\bin\mysql\mysql-8.4.3-winx64\bin\mysqld.exe
+[2026-09-20 23:48:51] MySQL successfully started and accepting connections on port 3306
+[2026-09-20 23:48:51] Starting PHP built-in server for Adminer on port 8010 (Docroot: E:\DjangoBuild\laragon-lite-o\server\etc\apps\adminer)
+[2026-09-20 23:48:52] Adminer successfully started and accessible at http://127.0.0.1:8010
+[2026-09-20 23:50:45] Stopping all managed services...
+[2026-09-20 23:50:45] Stopping Adminer/PHP process (PID: 12732)...
+[2026-09-20 23:50:45] Stopping MySQL process (PID: 14748)...
+[2026-09-20 23:50:45] Services stopped successfully
+[2026-09-21 17:04:42] =========================================
+[2026-09-21 17:04:42] Server Manager started
+[2026-09-21 17:04:42] App Root: E:\DjangoBuild\laragon-lite-o
+[2026-09-21 17:04:42] Server Root: E:\DjangoBuild\laragon-lite-o\server
+[2026-09-21 17:04:42] MySQL Port: 3306 | Adminer/PHP Port: 8010
+[2026-09-21 17:04:42] =========================================
+[2026-09-21 17:04:42] Starting MySQL on port 3306 with executable: E:\DjangoBuild\laragon-lite-o\server\bin\mysql\mysql-8.4.3-winx64\bin\mysqld.exe
+[2026-09-21 17:04:55] MySQL successfully started and accepting connections on port 3306
+[2026-09-21 17:04:55] Starting PHP built-in server for Adminer on port 8010 (Docroot: E:\DjangoBuild\laragon-lite-o\server\etc\apps\adminer)
+[2026-09-21 17:04:56] Adminer successfully started and accessible at http://127.0.0.1:8010
+[2026-09-21 17:05:00] Stopping all managed services...
+[2026-09-21 17:05:01] Stopping Adminer/PHP process (PID: 10080)...
+[2026-09-21 17:05:01] Stopping MySQL process (PID: 9148)...
+[2026-09-21 17:05:01] Services stopped successfully
+[2026-11-10 23:05:26] =========================================
+[2026-11-10 23:05:26] Server Manager started
+[2026-11-10 23:05:26] App Root: D:\AlphaPOS
+[2026-11-10 23:05:26] Server Root: D:\AlphaPOS\server
+[2026-11-10 23:05:26] MySQL Port: 3306 | Adminer/PHP Port: 8010
+[2026-11-10 23:05:26] =========================================
+[2026-11-10 23:05:26] Starting MySQL on port 3306 with executable: D:\AlphaPOS\server\bin\mysql\mysql-8.4.3-winx64\bin\mysqld.exe
+[2026-11-10 23:05:32] MySQL successfully started and accepting connections on port 3306
+[2026-11-10 23:05:32] Starting PHP built-in server for Adminer on port 8010 (Docroot: D:\AlphaPOS\server\etc\apps\adminer)
+[2026-11-10 23:05:34] Adminer successfully started and accessible at http://127.0.0.1:8010
+[2026-11-10 23:07:41] Stopping all managed services...
+[2026-11-10 23:07:41] Stopping Adminer/PHP process (PID: 4432)...
+[2026-11-10 23:07:41] Stopping MySQL process (PID: 2388)...
+[2026-11-10 23:07:41] Services stopped successfully
+[2026-11-10 23:07:56] =========================================
+[2026-11-10 23:07:56] Server Manager started
+[2026-11-10 23:07:56] App Root: D:\AlphaPOS
+[2026-11-10 23:07:56] Server Root: D:\AlphaPOS\server
+[2026-11-10 23:07:56] MySQL Port: 3306 | Adminer/PHP Port: 8010
+[2026-11-10 23:07:56] =========================================
+[2026-11-10 23:07:56] Starting MySQL on port 3306 with executable: D:\AlphaPOS\server\bin\mysql\mysql-8.4.3-winx64\bin\mysqld.exe
+[2026-11-10 23:08:00] MySQL successfully started and accepting connections on port 3306
+[2026-11-10 23:08:00] Starting PHP built-in server for Adminer on port 8010 (Docroot: D:\AlphaPOS\server\etc\apps\adminer)
+[2026-11-10 23:08:02] Adminer successfully started and accessible at http://127.0.0.1:8010
+[2026-11-10 23:08:30] Stopping all managed services...
+[2026-11-10 23:08:30] Stopping Adminer/PHP process (PID: 13180)...
+[2026-11-10 23:08:30] Stopping MySQL process (PID: 8612)...
+[2026-11-10 23:08:30] Services stopped successfully
+[2026-11-10 23:08:33] =========================================
+[2026-11-10 23:08:33] Server Manager started
+[2026-11-10 23:08:33] App Root: D:\AlphaPOS
+[2026-11-10 23:08:33] Server Root: D:\AlphaPOS\server
+[2026-11-10 23:08:33] MySQL Port: 3306 | Adminer/PHP Port: 8010
+[2026-11-10 23:08:33] =========================================
+[2026-11-10 23:08:33] Starting MySQL on port 3306 with executable: D:\AlphaPOS\server\bin\mysql\mysql-8.4.3-winx64\bin\mysqld.exe
+[2026-11-10 23:08:39] MySQL successfully started and accepting connections on port 3306
+[2026-11-10 23:08:40] Starting PHP built-in server for Adminer on port 8010 (Docroot: D:\AlphaPOS\server\etc\apps\adminer)
+[2026-11-10 23:08:40] Adminer successfully started and accessible at http://127.0.0.1:8010
+[2026-11-10 23:09:56] Stopping all managed services...
+[2026-11-10 23:09:57] Stopping Adminer/PHP process (PID: 8660)...
+[2026-11-10 23:09:57] Stopping MySQL process (PID: 2264)...
+[2026-11-10 23:09:57] Services stopped successfully

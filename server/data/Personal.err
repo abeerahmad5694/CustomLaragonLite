@@ -1,0 +1,55 @@
+2026-09-20T18:48:43.823808Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2026-09-20T18:48:44.095567Z 0 [System] [MY-010116] [Server] E:\DjangoBuild\laragon-lite-o\server\bin\mysql\mysql-8.4.3-winx64\bin\mysqld.exe (mysqld 8.4.3) starting as process 8700
+2026-09-20T18:48:44.176296Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2026-09-20T18:48:49.110612Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2026-09-20T18:48:50.539007Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2026-09-20T18:48:50.548731Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2026-09-20T18:48:50.919193Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: E:\DjangoBuild\laragon-lite-o\server\bin\mysql\mysql-8.4.3-winx64\lib\private\.
+2026-09-20T18:48:51.132653Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2026-09-20T18:48:51.134243Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2026-09-20T18:48:51.324463Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2026-09-20T18:48:51.324601Z 0 [System] [MY-010931] [Server] E:\DjangoBuild\laragon-lite-o\server\bin\mysql\mysql-8.4.3-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.3'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2026-09-21T12:04:45.000156Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2026-09-21T12:04:45.779581Z 0 [System] [MY-010116] [Server] E:\DjangoBuild\laragon-lite-o\server\bin\mysql\mysql-8.4.3-winx64\bin\mysqld.exe (mysqld 8.4.3) starting as process 9344
+2026-09-21T12:04:46.583249Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2026-09-21T12:04:52.163222Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2026-09-21T12:04:54.457222Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2026-09-21T12:04:54.489162Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2026-09-21T12:04:55.060183Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: E:\DjangoBuild\laragon-lite-o\server\bin\mysql\mysql-8.4.3-winx64\lib\private\.
+2026-09-21T12:04:55.503093Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2026-09-21T12:04:55.504326Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2026-09-21T12:04:55.920202Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2026-09-21T12:04:55.920414Z 0 [System] [MY-010931] [Server] E:\DjangoBuild\laragon-lite-o\server\bin\mysql\mysql-8.4.3-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.3'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2026-11-10T18:05:28.018527Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2026-11-10T18:05:28.340359Z 0 [System] [MY-010116] [Server] D:\AlphaPOS\server\bin\mysql\mysql-8.4.3-winx64\bin\mysqld.exe (mysqld 8.4.3) starting as process 11296
+2026-11-10T18:05:28.571102Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2026-11-10T18:05:30.791052Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2026-11-10T18:05:31.624054Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2026-11-10T18:05:31.636202Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2026-11-10T18:05:31.904542Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: D:\AlphaPOS\server\bin\mysql\mysql-8.4.3-winx64\lib\private\.
+2026-11-10T18:05:32.462127Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2026-11-10T18:05:32.463607Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2026-11-10T18:05:32.633839Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2026-11-10T18:05:32.634004Z 0 [System] [MY-010931] [Server] D:\AlphaPOS\server\bin\mysql\mysql-8.4.3-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.3'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2026-11-10T18:07:56.643885Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2026-11-10T18:07:57.055225Z 0 [System] [MY-010116] [Server] D:\AlphaPOS\server\bin\mysql\mysql-8.4.3-winx64\bin\mysqld.exe (mysqld 8.4.3) starting as process 12840
+2026-11-10T18:07:57.187143Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2026-11-10T18:07:59.553523Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2026-11-10T18:08:00.272722Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2026-11-10T18:08:00.281890Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2026-11-10T18:08:00.448929Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: D:\AlphaPOS\server\bin\mysql\mysql-8.4.3-winx64\lib\private\.
+2026-11-10T18:08:00.548045Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2026-11-10T18:08:00.549115Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2026-11-10T18:08:00.975098Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2026-11-10T18:08:00.975294Z 0 [System] [MY-010931] [Server] D:\AlphaPOS\server\bin\mysql\mysql-8.4.3-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.3'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2026-11-10T18:08:33.899858Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2026-11-10T18:08:34.265057Z 0 [System] [MY-010116] [Server] D:\AlphaPOS\server\bin\mysql\mysql-8.4.3-winx64\bin\mysqld.exe (mysqld 8.4.3) starting as process 12080
+2026-11-10T18:08:34.320964Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2026-11-10T18:08:37.318801Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2026-11-10T18:08:37.894522Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2026-11-10T18:08:37.902361Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2026-11-10T18:08:39.417643Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: D:\AlphaPOS\server\bin\mysql\mysql-8.4.3-winx64\lib\private\.
+2026-11-10T18:08:39.638380Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2026-11-10T18:08:39.639129Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2026-11-10T18:08:39.922287Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2026-11-10T18:08:39.922450Z 0 [System] [MY-010931] [Server] D:\AlphaPOS\server\bin\mysql\mysql-8.4.3-winx64\bin\mysqld.exe: ready for connections. Version: '8.4.3'  socket: ''  port: 3306  MySQL Community Server - GPL.
